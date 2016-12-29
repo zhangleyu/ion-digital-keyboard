@@ -1,6 +1,0 @@
-{
-    "name": "ion-digital-keyboard",
-    "version": "1.0.0",
-    "main": "dist/ion-digital-keyboard.js",
-	"license": "MIT"
-   }
